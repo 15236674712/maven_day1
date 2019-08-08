@@ -9,6 +9,10 @@
 	<!--  项目名 -->
     <artifactId>maven_day1</artifactId>
 	<!--  版本 1.0   1.0.0.1-->
+	
+	
+	
+	<!--  版本 maven_day1-->
     <version>1.0</version>
 	
 
